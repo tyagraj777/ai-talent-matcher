@@ -1,0 +1,6 @@
+id,name,skills,experience,performance,availability
+1,Alice,Python;ML,5,4.5,yes
+2,Bob,Java;Cloud,3,4.0,no
+3,Charlie,JavaScript;React,4,4.2,yes
+4,Dave,Python;DataScience,6,4.7,yes
+5,Eve,Go;Kubernetes,5,4.3,yes
